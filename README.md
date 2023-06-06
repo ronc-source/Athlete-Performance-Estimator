@@ -1,2 +1,2 @@
 # Athlete-Performance-Estimator
-- Use ML regression algorithms to predict performance based on previous data.
+- Use linear regression to predict performance based on data
